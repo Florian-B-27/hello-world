@@ -1,6 +1,6 @@
 # hello-world
 #
-# Learning is a motivation for life /Lernen ist eine Lebensmotivation
+# Learning is a motivation for life / Lernen ist eine Lebensmotivation
 #
 # Keep calm in doing / Ruhe im Tun
 #

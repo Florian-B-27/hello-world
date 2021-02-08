@@ -1,5 +1,7 @@
 # hello-world
 #
+# Was macht einen guten Laptop aus? -> Eine Tasse Kaffee
+#
 # Learning is a motivation for life / Lernen ist eine Lebensmotivation
 #
 # Keep calm in doing / Ruhe im Tun
